@@ -2,14 +2,14 @@
 
 Este projeto demonstra a integração de uma aplicação Node.js com Redis usando Docker e Docker Compose.
 
-## 🚀 Tecnologias
+ Tecnologias
 - Node.js
 - Express
 - Redis
 - Docker
 - Docker Compose
 
-## ▶️ Como executar
+ Como executar
 
 1. Clone o repositório:
 ```bash
